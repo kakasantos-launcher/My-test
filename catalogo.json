@@ -1,17 +1,11 @@
 {
-  "Stardew Valley": {
-    "download": "https://www.mediafire.com/file/kijhvuut2pwel81/Stardew.Valley.v1.6.15-0xdeadcode.zip/file",
-    "banner": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413150/capsule_616x353.jpg",
-    "descricao": "Jogo de simulação de fazenda",
-    "tamanho": "1.2GB"
-  },
-  "Silk Song": {
-    "download": "https://www.mediafire.com/file/2vgh16wufwjgj4r",
-    "banner": "https://gmedia.playstation.com/is/image/SIEPDC/hollow-night-silksong-key-art-ps5-01jul25?$native$",
-    "descricao": "Jogo de aventura e plataforma",
-    "tamanho": "Desconhecido"
+  "games": [
+    {
+      "nome": "Elden Ring",
+      "descricao": "Souls Like",
+      "tamanho": "50GB",
+      "imagem": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1245620/ss_e0316c76f8197405c1312d072b84331dd735d60b.1920x1080.jpg?t=1748630546",
+      "link_download": "https://cdn.discordapp.com/attachments/1205917457684889630/1412607007717982332/ELDEN_RING_Deluxe_Edition_v.1.16.1.torrent?ex=691dc30b&is=691c718b&hm=c9132d273ddad33b5248dc6b83063689c466e6c5fb0f7b371cad8d322bc1c62b&"
+    }
+  ]
 }
-
-
-
-
